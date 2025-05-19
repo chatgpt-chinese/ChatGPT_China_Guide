@@ -5,8 +5,8 @@
 **国内直接用的 [ChatGPT 中文版](https://chat.lanjing.pro)**，**无需翻墙**即可使用 GPT-4、o1、o3及多功能应用！     
 本指南旨在为用户提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
 
-**ChatGPT 中文版**入口：**[https://xsimplechat.com/](https://xsimplechat.com/)**   
-**ChatGPT 镜像网站**直达：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 镜像网站**直达：**[https://xsimplechat.com/](https://xsimplechat.com/)**
 
 ---
 
